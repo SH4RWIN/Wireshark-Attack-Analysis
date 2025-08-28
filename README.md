@@ -1,11 +1,5 @@
 # Analyzing Network Traffic For Anomalous Behavior using WireShark
 
-Created time: August 27, 2025 7:32 PM
-Note Status: In progress
-Priority: HIGH
-Tags: Networks, Project, Security, Threat Detecton & Prevention, Tools, Wireshark, defence, guide
-Type: GUIDE
-
 # Introduction
 
 Analyzing network traffic is one of the most critical areas of cybersecurity today. It helps **forensic investigators** and **SOC Analysts** understand the root cause of attacks, trace malicious behavior, and create defensive strategies.
